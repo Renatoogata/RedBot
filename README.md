@@ -1,7 +1,7 @@
-SparkFun RedBot
+FlapBird Arduino
 ===============
 
-![RedBot Mainboard](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/6/2/2/11622-01a_medium.jpg)  
+![ArduinoUno](https://www.filipeflop.com/wp-content/uploads/2017/07/Arduino_Uno_R3.png)  
 
 [*RedBot Mainboard*](https://www.sparkfun.com/products/11622)
 
