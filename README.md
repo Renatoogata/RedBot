@@ -3,7 +3,7 @@ FlapBird Arduino
 
 ![ArduinoUno](https://www.filipeflop.com/wp-content/uploads/2017/07/Arduino_Uno_R3.png)  
 
-[*RedBot Mainboard*](https://www.sparkfun.com/products/11622)
+[*Arduino Uno*](https://www.filipeflop.com/produto/placa-uno-r3-cabo-usb-para-arduino)
 
 ![RedBot Kit](https://cdn.sparkfun.com//assets/parts/9/3/4/3/SIK_Shadow_Chasis.jpg)  
 
