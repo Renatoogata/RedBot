@@ -31,4 +31,9 @@ Lista de Produtos
 * [Protoboard 400 Pontos](https://www.filipeflop.com/produto/protoboard-400-pontos).
 * [Jumpers Macho-Macho x40 Unidades](https://www.filipeflop.com/produto/jumpers-macho-macho-x40-unidades).
 
+Integrantes
+----------------
+Renato Ide Ogata   
+Luydson Philipe     
+
 
