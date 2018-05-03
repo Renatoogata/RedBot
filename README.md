@@ -5,11 +5,15 @@ FlapBird Arduino
 
 [*Arduino Uno*](https://www.filipeflop.com/produto/placa-uno-r3-cabo-usb-para-arduino)
 
-![RedBot Kit](https://cdn.sparkfun.com//assets/parts/9/3/4/3/SIK_Shadow_Chasis.jpg)  
+![Sensor de Gás MQ-3 Álcool](https://www.filipeflop.com/wp-content/uploads/2017/07/58604_16866.jpg)  
 
-[*RedBot Kit*](https://www.sparkfun.com/products/12649)
+[*Sensor de Gás MQ-3 Álcool*](https://www.filipeflop.com/produto/sensor-de-gas-mq-3-alcool)
 
-Design files and firmware files for the [RedBot Main board](https://www.sparkfun.com/products/11622).
+![Display OLED 0.96″ I2C Azul Amarelo](https://www.filipeflop.com/wp-content/uploads/2017/07/SKU195523a.png)  
+
+[*Display OLED 0.96″ I2C Azul Amarelo*](https://www.filipeflop.com/produto/display-oled-0-96-i2c-azul-amarelo/
+
+
 
 Repository Contents
 -------------------
